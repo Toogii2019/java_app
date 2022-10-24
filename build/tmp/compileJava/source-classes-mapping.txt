@@ -1,2 +1,0 @@
-com/example/App.java
- com.example.App
